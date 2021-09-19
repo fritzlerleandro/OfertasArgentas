@@ -1,0 +1,1 @@
+export const ALVEAR_IMG_FALLBACK = "https://www.alvearonline.com.ar:9992/Imagenes/Instalacion/3/alvear.png";
