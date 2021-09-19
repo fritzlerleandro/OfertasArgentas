@@ -1,0 +1,5 @@
+article .productCard {
+  display: flex;
+  margin: 100px auto;
+  background-color: aquamarine;
+}
