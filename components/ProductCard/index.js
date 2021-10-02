@@ -1,6 +1,5 @@
 import React from "react";
 import ImageWithFallback from "../customComponents/ImageWithFallback";
-// import styles from '/styles.modules.css';
 import { ALVEAR_IMG_FALLBACK } from "../../utils/constants/constants";
 import blurImg from "../../public/assets/bluredPlaceholders/blurData.png";
 function ProductCard({ product }) {
